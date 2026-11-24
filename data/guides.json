@@ -1,0 +1,27 @@
+{
+  "first_aid": {
+    "Minor Burns": [
+      "Cool the burn under cool (not ice-cold) running water for 10 to 20 minutes.",
+      "Remove tight items like rings or watches before swelling starts.",
+      "Cover loosely with a sterile, non-stick bandage. Do not pop blisters.",
+      "Seek urgent medical care for large, deep, or facial/joint burns."
+    ],
+    "Minor Cuts & Scrapes": [
+      "Wash hands and apply gentle pressure with a clean cloth to stop bleeding.",
+      "Rinse the wound under clean running water and wash mild soap around (not inside) deep wounds.",
+      "Apply a thin layer of plain petroleum jelly or ointment and cover with a sterile bandage.",
+      "Seek medical evaluation if bleeding does not stop after 10 minutes or if the wound is deep/dirty."
+    ],
+    "Choking (Adult - Conscious)": [
+      "Encourage coughing if the person can cough forcefully or speak.",
+      "If unable to speak, cough, or breathe, call emergency services immediately.",
+      "Deliver 5 back blows between the shoulder blades followed by 5 abdominal thrusts (if safe/trained to do so).",
+      "If the person becomes unresponsive, call emergency services and begin CPR."
+    ]
+  },
+  "wellness_tips": [
+    "Stay hydrated throughout the day and pair routine checkup dates with calendar reminders.",
+    "Aim for consistent sleep schedules, regular movement, and balanced meals.",
+    "Keep an updated list of current medications and allergies before any doctor visit."
+  ]
+}
